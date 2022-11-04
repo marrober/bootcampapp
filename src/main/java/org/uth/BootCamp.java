@@ -34,8 +34,6 @@ public class BootCamp
 //      System.out.println( "Ignoring the health probe");
 //      Thread.sleep(20000);
 //    }
-
-    return "";
   }
 
   @Path("envVars")
